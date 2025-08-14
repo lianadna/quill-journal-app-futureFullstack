@@ -1,4 +1,4 @@
-# Quill - Journal App
+# Quill
 A clean and modern digital journaling app for mindful living.
 
 ## Preview
