@@ -13,4 +13,4 @@ A clean and modern digital journaling app for mindful living.
 
 ## How to Run Locally
 ```bash
-git clone https://github.com/lianadna/quill-journal-app-futurefullstack.com.git
+git clone https://github.com/lianadna/quill-journal-app-futureFullstack.git
