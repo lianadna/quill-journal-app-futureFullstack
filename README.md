@@ -2,7 +2,7 @@
 A clean and modern digital journaling app for mindful living.
 
 ## Preview
-![Preview 1](assets/preview-1.png)
+![Preview](assets/preview.png)
 
 ## Features
 - Login and register
