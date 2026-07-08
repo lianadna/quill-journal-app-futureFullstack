@@ -2,7 +2,7 @@
 A clean and modern digital journaling app for mindful living.
 
 ## Preview
->This project is still in progress. Additional pages, styling, responsiveness, and improvements are currently being worked on as I continue the course.
+![Preview 1](assets/preview-1.png)
 
 ## Features
 - Login and register
